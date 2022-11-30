@@ -309,9 +309,9 @@ Se debe localizar el resistor abierto utilizando un voltímetro para medir media
 
 RT=24V
 
-24V a través del resistor abierto, 0V a través del resto
+24V a través del resistor abierto, 0V a través del restores
 
-=====================EJERCICIOS CAPITULO 6==========================
+EJERCICIOS CAPITULO 6
 
 2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
@@ -531,7 +531,7 @@ c)La corriente de cada suma d)El voltaje aplicado
 
 5.Conclusiones
 
-En esteinforme se pudo comprender de mejor manera las leyes de Kirchhoff y sus aplicaciones. Otro tema más que se tuvo presente en este informe fueron los circuitos en serie y en paralelo, ya que se trabajo con problemas planteados en estos mismamente y se entendieron sus diferencias y características. Para resolver los ejercicios planteados para este informe igual fue de gran importancia el conocimiento y aplicación de la ley de Ohm. Se pudo trabajar con calculos de la corriente, voltaje y resistencia totales teniendo en cuenta el tipo de circuito y condiciones, lo cuál fue muy importante de aprender.
+En este informe se pudo comprender de mejor manera las leyes de Kirchhoff y sus aplicaciones. Otro tema más que se tuvo presente en este informe fueron los circuitos en serie y en paralelo, ya que se trabajo con problemas planteados en estos mismamente y se entendieron sus diferencias y características. Para resolver los ejercicios planteados para este informe igual fue de gran importancia el conocimiento y aplicación de la ley de Ohm. Se pudo trabajar con calculos de la corriente, voltaje y resistencia totales teniendo en cuenta el tipo de circuito y condiciones, lo cuál fue muy importante de aprender.
 
 6.Bibliografía
 
